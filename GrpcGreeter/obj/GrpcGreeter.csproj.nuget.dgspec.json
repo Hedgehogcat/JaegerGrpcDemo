@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Jaeger\\2019-master\\04\\JaegerDemo\\jaeger\\GrpcGreeter\\GrpcGreeter.csproj": {}
+  },
+  "projects": {
+    "D:\\Jaeger\\2019-master\\04\\JaegerDemo\\jaeger\\GrpcGreeter\\GrpcGreeter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Jaeger\\2019-master\\04\\JaegerDemo\\jaeger\\GrpcGreeter\\GrpcGreeter.csproj",
+        "projectName": "GrpcGreeter",
+        "projectPath": "D:\\Jaeger\\2019-master\\04\\JaegerDemo\\jaeger\\GrpcGreeter\\GrpcGreeter.csproj",
+        "packagesPath": "C:\\Users\\LCB\\.nuget\\packages\\",
+        "outputPath": "D:\\Jaeger\\2019-master\\04\\JaegerDemo\\jaeger\\GrpcGreeter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LCB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[0.1.22-pre2, )"
+            },
+            "Jaeger": {
+              "target": "Package",
+              "version": "[0.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview7-27912-14, )",
+              "autoReferenced": true
+            },
+            "OpenTracing.Contrib.NetCore.Unofficial": {
+              "target": "Package",
+              "version": "[0.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\Jaeger\2019-master\04\JaegerDemo\AService\bin\Debug\netcoreapp2.2\AService.deps.json
+D:\Jaeger\2019-master\04\JaegerDemo\AService\bin\Debug\netcoreapp2.2\AService.runtimeconfig.json
+D:\Jaeger\2019-master\04\JaegerDemo\AService\bin\Debug\netcoreapp2.2\AService.runtimeconfig.dev.json
+D:\Jaeger\2019-master\04\JaegerDemo\AService\bin\Debug\netcoreapp2.2\AService.dll
+D:\Jaeger\2019-master\04\JaegerDemo\AService\bin\Debug\netcoreapp2.2\AService.pdb
+D:\Jaeger\2019-master\04\JaegerDemo\AService\obj\Debug\netcoreapp2.2\AService.csprojAssemblyReference.cache
+D:\Jaeger\2019-master\04\JaegerDemo\AService\obj\Debug\netcoreapp2.2\AService.csproj.CoreCompileInputs.cache
+D:\Jaeger\2019-master\04\JaegerDemo\AService\obj\Debug\netcoreapp2.2\AService.RazorAssemblyInfo.cache
+D:\Jaeger\2019-master\04\JaegerDemo\AService\obj\Debug\netcoreapp2.2\AService.RazorAssemblyInfo.cs
+D:\Jaeger\2019-master\04\JaegerDemo\AService\obj\Debug\netcoreapp2.2\AService.AssemblyInfoInputs.cache
+D:\Jaeger\2019-master\04\JaegerDemo\AService\obj\Debug\netcoreapp2.2\AService.AssemblyInfo.cs
+D:\Jaeger\2019-master\04\JaegerDemo\AService\obj\Debug\netcoreapp2.2\AService.RazorTargetAssemblyInfo.cache
+D:\Jaeger\2019-master\04\JaegerDemo\AService\obj\Debug\netcoreapp2.2\AService.dll
+D:\Jaeger\2019-master\04\JaegerDemo\AService\obj\Debug\netcoreapp2.2\AService.pdb
+D:\Jaeger\2019-master\04\JaegerDemo\AService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Jaeger\2019-master\04\JaegerDemo\AService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Jaeger\2019-master\04\JaegerDemo\AService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json

@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Jaeger\\2019-master\\04\\JaegerDemo\\jaeger\\BService\\BService.csproj": {}
+  },
+  "projects": {
+    "D:\\Jaeger\\2019-master\\04\\JaegerDemo\\jaeger\\BService\\BService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Jaeger\\2019-master\\04\\JaegerDemo\\jaeger\\BService\\BService.csproj",
+        "projectName": "BService",
+        "projectPath": "D:\\Jaeger\\2019-master\\04\\JaegerDemo\\jaeger\\BService\\BService.csproj",
+        "packagesPath": "C:\\Users\\LCB\\.nuget\\packages\\",
+        "outputPath": "D:\\Jaeger\\2019-master\\04\\JaegerDemo\\jaeger\\BService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LCB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "EasyCaching.InMemory": {
+              "target": "Package",
+              "version": "[0.5.4.1, )"
+            },
+            "Jaeger": {
+              "target": "Package",
+              "version": "[0.3.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "OpenTracing.Contrib.NetCore.Unofficial": {
+              "target": "Package",
+              "version": "[0.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
