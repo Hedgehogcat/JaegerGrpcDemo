@@ -4,3 +4,4 @@
 
 /.vs/JaegerDemo/v16/Server/sqlite3
 /.vs
+/.GrpcGreeterClientApi/bin
